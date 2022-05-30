@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Upload Attachment">f61489b01b730510ebd04196bc4bcb0d</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-28 18:38:23</sys_created_on>
+        <sys_id>5ba549341b730510ebd04196bc4bcb20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Upload Attachment</sys_name>
+        <sys_package display_value="Upload" source="x_827132_upload">b0d345b01b730510ebd04196bc4bcb57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upload">b0d345b01b730510ebd04196bc4bcb57</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_5ba549341b730510ebd04196bc4bcb20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-28 18:38:23</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Upload">b0d345b01b730510ebd04196bc4bcb57</application>
+        <file_path/>
+        <instance_id>bd4fda18db1b5bc452e3f70fbf9619ef</instance_id>
+        <instance_name>dev64123</instance_name>
+        <name>sc_cat_item_catalog_5ba549341b730510ebd04196bc4bcb20</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Upload Attachment">f61489b01b730510ebd04196bc4bcb0d</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-28 18:38:23</sys_created_on><sys_id>5ba549341b730510ebd04196bc4bcb20</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Upload Attachment</sys_name><sys_package display_value="Upload" source="x_827132_upload">b0d345b01b730510ebd04196bc4bcb57</sys_package><sys_policy/><sys_scope display_value="Upload">b0d345b01b730510ebd04196bc4bcb57</sys_scope><sys_update_name>sc_cat_item_catalog_5ba549341b730510ebd04196bc4bcb20</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-28 18:38:23</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-739206650</payload_hash>
+        <record_name>Service Catalog.Upload Attachment</record_name>
+        <reverted_from/>
+        <source>89d345b01b730510ebd04196bc4bcb59</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-28 18:38:23</sys_created_on>
+        <sys_id>dba549341b730510ebd04196bc4bcb26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1810bf65cc00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-28 18:38:23</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>53a54934b37305106b785c061b21ce26</update_guid>
+        <update_guid_history>53a54934b37305106b785c061b21ce26:-739206650</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Upload Attachment">bab589341b730510ebd04196bc4bcb2f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-28 18:38:37</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>06c56b461c0743e8a7ea728f5496ca04</sys_id>
+        <sys_metadata>5ba549341b730510ebd04196bc4bcb20</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Upload Attachment</sys_name>
+        <sys_package display_value="Upload" source="x_827132_upload">b0d345b01b730510ebd04196bc4bcb57</sys_package>
+        <sys_parent display_value="Upload Attachment">f61489b01b730510ebd04196bc4bcb0d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Upload">b0d345b01b730510ebd04196bc4bcb57</sys_scope>
+        <sys_scope_delete display_value="">5945e05d49d7480a8e69178c76e824e4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_5ba549341b730510ebd04196bc4bcb20</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_5ba549341b730510ebd04196bc4bcb20">dba549341b730510ebd04196bc4bcb26</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-28 18:38:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
