@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Users Upload Attachments" max_length="40" name="x_827132_upload_users_upload_attachments" sizeclass="5" type="collection">
+    <element label="Users Upload Attachments" max_length="40" name="x_827132_upload_users_upload_attachments" sizeclass="5" text_index="true" type="collection">
         <element display="true" label="Attachment" max_length="40" name="attachment" type="file_attachment"/>
         <element label="Attachment Description" max_length="200" name="attachment_description" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>

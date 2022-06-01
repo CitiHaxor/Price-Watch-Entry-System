@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>routeConfigId</name>
+        <page display_value="data visualization">074987f9c4ff0110f1373492b9f7d91c</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 06:47:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>834987f95cff0110ca6d8eab32f0001a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>routeConfigId</sys_name>
+        <sys_package display_value="Upload" source="x_827132_upload">b0d345b01b730510ebd04196bc4bcb57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upload">b0d345b01b730510ebd04196bc4bcb57</sys_scope>
+        <sys_update_name>sys_ux_page_property_834987f95cff0110ca6d8eab32f0001a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 06:47:23</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_827132_upload.074987f9c4ff0110f1373492b9f7d91c.root.routeConfigId</unique_name>
+        <value>76a302f10b131010a8b1c96237673a61</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=834987f95cff0110ca6d8eab32f0001a"/>
+</record_update>

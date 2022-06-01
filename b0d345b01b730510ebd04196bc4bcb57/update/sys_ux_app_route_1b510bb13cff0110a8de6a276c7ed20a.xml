@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="view Config">9b510bb169ff0110df60cd60ff70ee0a</app_config>
+        <description/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Record</name>
+        <optional_parameters>query,extraParams</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>record</route_type>
+        <screen_type display_value="Record">97510bb14cff01108f6cacacf706a50a</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 06:12:44</sys_created_on>
+        <sys_id>1b510bb13cff0110a8de6a276c7ed20a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="Upload" source="x_827132_upload">b0d345b01b730510ebd04196bc4bcb57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upload">b0d345b01b730510ebd04196bc4bcb57</sys_scope>
+        <sys_update_name>sys_ux_app_route_1b510bb13cff0110a8de6a276c7ed20a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 06:12:44</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=1b510bb13cff0110a8de6a276c7ed20a"/>
+</record_update>

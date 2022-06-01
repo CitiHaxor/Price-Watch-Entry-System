@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="role" table="x_827132_upload_users_role">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>role</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>true</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>role</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_827132_upload_users_role</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 04:44:58</sys_created_on>
+        <sys_id>464da2bd1b7f0110ebd04196bc4bcba4</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>role</sys_name>
+        <sys_package display_value="Upload" source="x_827132_upload">b0d345b01b730510ebd04196bc4bcb57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upload">b0d345b01b730510ebd04196bc4bcb57</sys_scope>
+        <sys_update_name>sys_dictionary_x_827132_upload_users_role_role</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 04:45:34</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Upload">b0d345b01b730510ebd04196bc4bcb57</application>
+        <file_path/>
+        <instance_id>bd4fda18db1b5bc452e3f70fbf9619ef</instance_id>
+        <instance_name>dev64123</instance_name>
+        <name>sys_dictionary_x_827132_upload_users_role_role</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="role" table="x_827132_upload_users_role"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>role</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>true</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>role</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_827132_upload_users_role</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-01 04:44:58</sys_created_on><sys_id>464da2bd1b7f0110ebd04196bc4bcba4</sys_id><sys_mod_count>3</sys_mod_count><sys_name>role</sys_name><sys_package display_value="Upload" source="x_827132_upload">b0d345b01b730510ebd04196bc4bcb57</sys_package><sys_policy/><sys_scope display_value="Upload">b0d345b01b730510ebd04196bc4bcb57</sys_scope><sys_update_name>sys_dictionary_x_827132_upload_users_role_role</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-01 04:45:34</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>76563710</payload_hash>
+        <record_name>user role.role</record_name>
+        <reverted_from/>
+        <source>e6cbded91bf3c510ebd04196bc4bcb27</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 04:45:35</sys_created_on>
+        <sys_id>0f6da6bd1b7f0110ebd04196bc4bcb89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1811d9555cf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 04:45:35</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>476da6bd4f7f0110165d151ab2a7d389</update_guid>
+        <update_guid_history>476da6bd4f7f0110165d151ab2a7d389:76563710,564de2bdb87f01103b34925b402f1156:687511809,d64de2bd5a7f01107dc00838b136774d:1896432897,9a4de2bdf47f0110bb368fcdbc751e46:-1310330652</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 04:48:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>02258991154d4e0a8050d22279f77a39</sys_id>
+        <sys_metadata>464da2bd1b7f0110ebd04196bc4bcba4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>role</sys_name>
+        <sys_package display_value="Upload" source="x_827132_upload">b0d345b01b730510ebd04196bc4bcb57</sys_package>
+        <sys_parent display_value="">ed2d6e7d1b7f0110ebd04196bc4bcb4c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Upload">b0d345b01b730510ebd04196bc4bcb57</sys_scope>
+        <sys_scope_delete display_value="">5945e05d49d7480a8e69178c76e824e4</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_827132_upload_users_role_role</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_827132_upload_users_role_role">0f6da6bd1b7f0110ebd04196bc4bcb89</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 04:48:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

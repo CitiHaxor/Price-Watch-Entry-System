@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="verification" max_length="40" name="x_827132_upload_verification" type="collection">
+    <element label="verification" max_length="40" name="x_827132_upload_verification" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Password" max_length="40" name="password" type="string"/>
         <element label="User name" max_length="40" name="user_name" type="string"/>

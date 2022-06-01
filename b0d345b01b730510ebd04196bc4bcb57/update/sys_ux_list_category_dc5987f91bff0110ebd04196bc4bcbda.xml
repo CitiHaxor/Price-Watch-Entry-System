@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="data visualization_menu_config">805987f91bff0110ebd04196bc4bcbaf</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 06:47:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dc5987f91bff0110ebd04196bc4bcbda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>user_role</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Upload" source="x_827132_upload">b0d345b01b730510ebd04196bc4bcb57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upload">b0d345b01b730510ebd04196bc4bcb57</sys_scope>
+        <sys_update_name>sys_ux_list_category_dc5987f91bff0110ebd04196bc4bcbda</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 06:47:27</sys_updated_on>
+        <title>user_role</title>
+    </sys_ux_list_category>
+</record_update>

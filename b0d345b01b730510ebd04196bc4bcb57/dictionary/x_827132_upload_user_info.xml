@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="user info" max_length="40" name="x_827132_upload_user_info" type="collection">
+    <element label="user info" max_length="40" name="x_827132_upload_user_info" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="password" max_length="40" name="password" type="string"/>
+        <element display="true" label="role" max_length="32" name="role" reference="x_827132_upload_user_role" type="reference"/>
         <element label="user name" max_length="40" name="user_name" type="string"/>
+        <index name="index">
+            <element name="role"/>
+        </index>
     </element>
 </database>

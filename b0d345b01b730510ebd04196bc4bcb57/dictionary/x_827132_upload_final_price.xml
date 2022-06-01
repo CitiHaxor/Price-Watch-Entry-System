@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="final price" max_length="40" name="x_827132_upload_final_price" text_index="true" type="collection">
+        <element label="AEON" max_length="40" name="aeon" type="float"/>
+        <element label="category" max_length="32" name="category" reference="x_827132_upload_category" type="reference"/>
+        <element default="javascript:gs.now()" display="true" dynamic_default_value="fb7553e85f220100a9ad2572f2b477b4" label="Date" max_length="40" name="date" type="glide_date" use_dynamic_default="true"/>
+        <element label="DCH Food Mart" max_length="40" name="dch_food_mart" type="float"/>
+        <element label="Mannings" max_length="40" name="mannings" type="float"/>
+        <element label="Market Place" max_length="40" name="market_place" type="float"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="PARKnSHOP" max_length="40" name="parknshop" type="float"/>
+        <element label="product" max_length="40" name="product" type="string"/>
+        <element label="Watsons" max_length="40" name="watsons" type="float"/>
+        <element label="Wellcome" max_length="40" name="wellcome" type="float"/>
+        <index name="index">
+            <element name="category"/>
+        </index>
+    </element>
+</database>

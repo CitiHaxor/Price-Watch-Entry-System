@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="user_role" max_length="40" name="x_827132_upload_user_role" text_index="true" type="collection">
+        <element display="true" label="role" max_length="40" name="role" type="string"/>
+    </element>
+</database>
