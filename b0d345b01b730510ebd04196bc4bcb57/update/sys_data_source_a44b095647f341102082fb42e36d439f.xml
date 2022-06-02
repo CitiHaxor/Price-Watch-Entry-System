@@ -22,7 +22,7 @@
         <glide_keystore>false</glide_keystore>
         <header_row>0</header_row>
         <import_set_table_label/>
-        <import_set_table_name>x_827132_upload_x_827132_query_price</import_set_table_name>
+        <import_set_table_name>x_827132_upload_product_prices_v2</import_set_table_name>
         <instance_name/>
         <jdbc_password>h21NU1I93Ls=</jdbc_password>
         <jdbc_server>35.220.178.165</jdbc_server>
@@ -36,7 +36,7 @@
         <limit/>
         <maximum_rows/>
         <mid_server/>
-        <name>GCP_Product_Prices</name>
+        <name>GCP_Query_v2</name>
         <offset>0</offset>
         <oracle_port>1521</oracle_port>
         <oracle_sid>orcl</oracle_sid>
@@ -51,21 +51,21 @@
         <scp_server/>
         <scp_user_name/>
         <sheet_number>0</sheet_number>
-        <sql_statement>Select * from product_prices limit 10000</sql_statement>
+        <sql_statement>select * from product_prices</sql_statement>
         <ssh_keyfile_path/>
         <support_pagination>false</support_pagination>
         <sys_class_name>sys_data_source</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-06-02 04:35:21</sys_created_on>
-        <sys_id>89e3330247bf01102082fb42e36d43b8</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>GCP_Product_Prices</sys_name>
+        <sys_created_on>2022-06-02 10:57:42</sys_created_on>
+        <sys_id>a44b095647f341102082fb42e36d439f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GCP_Query_v2</sys_name>
         <sys_package display_value="Upload" source="x_827132_upload">b0d345b01b730510ebd04196bc4bcb57</sys_package>
         <sys_policy/>
         <sys_scope display_value="Upload">b0d345b01b730510ebd04196bc4bcb57</sys_scope>
-        <sys_update_name>sys_data_source_89e3330247bf01102082fb42e36d43b8</sys_update_name>
+        <sys_update_name>sys_data_source_a44b095647f341102082fb42e36d439f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-02 10:35:50</sys_updated_on>
+        <sys_updated_on>2022-06-02 10:57:42</sys_updated_on>
         <table_name/>
         <type>JDBC</type>
         <use_batch_import>false</use_batch_import>
