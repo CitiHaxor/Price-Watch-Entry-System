@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition table="x_827132_upload_x_827132_query_price">active=true</condition>
+        <group/>
+        <name>Upload Data File - x_827132_upload_x_827132_query_</name>
+        <roles/>
+        <source_table>x_827132_upload_x_827132_query_price</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 11:44:29</sys_created_on>
+        <sys_id>38e6595e47b741102082fb42e36d4376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Upload Data File - x_827132_upload_x_827132_query_</sys_name>
+        <sys_package display_value="Upload" source="x_827132_upload">b0d345b01b730510ebd04196bc4bcb57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upload">b0d345b01b730510ebd04196bc4bcb57</sys_scope>
+        <sys_update_name>sys_search_source_38e6595e47b741102082fb42e36d4376</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 11:44:29</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=38e6595e47b741102082fb42e36d4376"/>
+</record_update>

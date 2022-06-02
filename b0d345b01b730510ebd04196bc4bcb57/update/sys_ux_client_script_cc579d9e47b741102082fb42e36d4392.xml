@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Home">ebd6d55e50b74110f5b8df2f71823c15</macroponent>
+        <name>attachments_1_table</name>
+        <required_translations/>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+	return '';
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 11:46:20</sys_created_on>
+        <sys_id>cc579d9e47b741102082fb42e36d4392</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attachments_1_table</sys_name>
+        <sys_package display_value="Upload" source="x_827132_upload">b0d345b01b730510ebd04196bc4bcb57</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Upload">b0d345b01b730510ebd04196bc4bcb57</sys_scope>
+        <sys_update_name>sys_ux_client_script_cc579d9e47b741102082fb42e36d4392</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 11:46:20</sys_updated_on>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>
