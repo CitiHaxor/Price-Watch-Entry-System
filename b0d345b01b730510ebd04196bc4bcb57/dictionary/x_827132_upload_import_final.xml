@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Import_final" max_length="40" name="x_827132_upload_import_final" type="collection">
+        <element label="brand" max_length="256" name="brand" type="string"/>
+        <element label="categories" max_length="40" name="categories" type="string"/>
+        <element label="name" max_length="256" name="name" type="string"/>
+    </element>
+</database>
