@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="GCP_Product_Prices" max_length="40" name="x_827132_upload_x_827132_query_price" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=barcode" label="barcode" max_length="64" name="u_barcode" type="string"/>
+        <element attributes="import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="date"/>
+        <element attributes="import_attribute_name=index" label="index" max_length="40" name="u_index" type="integer"/>
+        <element attributes="import_attribute_name=price" label="price" max_length="40" name="u_price" type="UNKNOWN"/>
+        <element attributes="import_attribute_name=supermarket_id" label="supermarket_id" max_length="40" name="u_supermarket_id" type="integer"/>
+    </element>
+</database>
